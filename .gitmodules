@@ -34,7 +34,7 @@
 [submodule "djfactory"]
 	path = djfactory
 	url = git://github.com/hfeeki/djfactory.git
-[submodule "src/funfactory"]
+[submodule "src/djfactory"]
 	path = src/djfactory
 	url = git://github.com/hfeek/djfactory.git
 [submodule "src/django-arecibo"]
