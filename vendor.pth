@@ -6,7 +6,7 @@ src/django-mozilla-product-details
 src/django-multidb-router
 src/django-nose
 src/django-sha2
-src/funfactory
+src/djfactory
 src/jingo
 src/jingo-minify
 src/nuggets
